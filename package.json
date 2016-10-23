@@ -28,6 +28,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.2",
-    "ulog": "^0.3.0"
+    "ulog": "^1.0.0"
   }
 }
