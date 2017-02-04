@@ -1,4 +1,6 @@
 # glyphicons
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/glyphicons.svg)](https://greenkeeper.io/)
 An icon set based on Unicode glyphs
 
 [![npm](https://img.shields.io/npm/v/glyphicons.svg)](https://npmjs.com/package/glyphicons)
